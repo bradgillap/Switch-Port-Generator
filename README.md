@@ -5,7 +5,7 @@ This Powershell GUIscript makes it very quick to generate network port configura
 
 ## How does it work?
 
-I built this script in my downtime because I'm too forgetful to remember several different port configurations for single switches or stacks. The script generates the interface number to the corresponding checkbox automatically. This can be used for just about any manufacturing type of switch with minimal changes.
+I built this script in my downtime because I'm too forgetful to remember several different port configurations for single switches or stacks. The script generates the interface number to the corresponding checkbox automatically. This can be used for just about any manufacturer of switch with minimal changes.
 
 ### A Poor Example
 Typically you enter configuring a single port into the terminal by typing something like this:
