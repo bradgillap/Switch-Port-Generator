@@ -21,7 +21,7 @@ From this point your terminal changes to the switch number and port number to de
 
 You're likely best off just running the script yourself and playing with the buttons to get a sense of what can be done with it.
 
-## Editing for Use.
+## Editing for Use
 
 - Near line 40 you'll find the select interface commands. 
 - near line 100 you'll find the port options that get plugged in. Since every environment is different, this has been purposefully left up to the network administrator.
